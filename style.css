@@ -100,14 +100,14 @@ body::before {
 
 
 /* ------------------- Text Styling ------------------- */
-
 .subtitle {
   font-weight: 400;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1.6;
   color: rgba(41, 41, 41, 0.8);
   text-align: center;
-  max-width: 809px;
+  max-width: 950px;
+  letter-spacing: 0.90px;
   margin: 0 auto 30px auto;
   padding: 0 16px;
   word-break: break-word;
@@ -118,7 +118,7 @@ body::before {
   font-size: 95px;
   font-weight: 700;
   line-height: 88px;
-  letter-spacing: 9.12px;
+  letter-spacing: 5px;
   text-align: center;
   text-transform: uppercase; 
   margin: 0;
