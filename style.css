@@ -111,6 +111,7 @@ body::before {
   margin: 0 auto 30px auto;
   padding: 0 16px;
   word-break: break-word;
+  letter-spacing: 0.2px;
 }
 
 
